@@ -16,12 +16,14 @@
 
 <h1></h1>
 
-<h1 align="left">Languages:</h1>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,php,py,ts,js" />
   </a> 
 </p>
+
+<h3></h3>
 
 <h3><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
 
