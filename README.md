@@ -23,7 +23,7 @@
   </a> 
 </p>
 
-<h1></h1>
+<h2></h2>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
 
