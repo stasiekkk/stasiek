@@ -20,4 +20,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
