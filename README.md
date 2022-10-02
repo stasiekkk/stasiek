@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<h1></h1>
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
