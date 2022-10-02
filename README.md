@@ -32,3 +32,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>&nbsp;</h1>
 
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
