@@ -25,6 +25,10 @@
 
 <h2 style="color="#ff000"">ergsedrgse</h2>
 
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
