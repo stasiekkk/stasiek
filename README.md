@@ -14,7 +14,7 @@
 
 <h1></h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,php,py,ts,js" />
