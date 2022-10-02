@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stasiekkk&show_icons=true&theme=dark&locale=en&layout=compact" alt="stasiekkk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
-
-![a](https://github-readme-stats.vercel.app/api?username=stasiekkk&theme=dark&show_icons=true)
