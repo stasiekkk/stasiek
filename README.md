@@ -25,8 +25,6 @@
 
 <h2></h2>
 
-<p> </p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stasiekkk&show_icons=true&theme=dark&locale=en" alt="stasiekkk" /></p>
