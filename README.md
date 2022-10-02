@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Electron, React.js, TypeScript**
 
+<h1></h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/nyWZnmNQSN" target="blank">
