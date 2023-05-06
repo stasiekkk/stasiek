@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 03 May 2023
+From: 01 October 2022 - To: 04 May 2023
 
 Total Time: 32 hrs 23 mins
 
@@ -44,6 +44,7 @@ Lua             12 hrs 19 mins  >>>>>>>>>>---------------   38.04 %
 JavaScript      8 hrs 25 mins   >>>>>>-------------------   25.99 %
 CSS             6 hrs 45 mins   >>>>>--------------------   20.85 %
 Other           2 hrs 45 mins   >>-----------------------   08.51 %
+HTML            1 hr 46 mins    >------------------------   05.46 %
 ```
 
 <!--END_SECTION:waka-->
