@@ -36,15 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2022 - To: 10 June 2023
+From: 01 October 2022 - To: 11 June 2023
 
-Total Time: 44 hrs 10 mins
+Total Time: 49 hrs 15 mins
 
-Lua             12 hrs 19 mins  >>>>>>>------------------   27.89 %
-JavaScript      11 hrs 1 min    >>>>>>-------------------   24.96 %
-TypeScript      8 hrs 46 mins   >>>>>--------------------   19.87 %
-CSS             6 hrs 45 mins   >>>>---------------------   15.29 %
-Other           2 hrs 45 mins   >>-----------------------   06.24 %
+TypeScript      13 hrs 51 mins  >>>>>>>------------------   28.14 %
+Lua             12 hrs 19 mins  >>>>>>-------------------   25.01 %
+JavaScript      11 hrs 1 min    >>>>>>-------------------   22.38 %
+CSS             6 hrs 45 mins   >>>----------------------   13.71 %
+Other           2 hrs 45 mins   >------------------------   05.60 %
 ```
 
 <!--END_SECTION:waka-->
